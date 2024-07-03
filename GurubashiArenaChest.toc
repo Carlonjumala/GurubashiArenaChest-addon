@@ -1,0 +1,8 @@
+## Interface: 11401
+## Title: GurubashiArenaChest
+## Notes: Addon to keep track of timer on Gurubashi arena chest.
+## Author: Carlonjumala
+## Version: 1.0
+
+GurubashiArenaChest.lua
+GurubashiArenaChest.xml
